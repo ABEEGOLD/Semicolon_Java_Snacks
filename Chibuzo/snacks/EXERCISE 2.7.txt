@@ -1,0 +1,50 @@
+EXERCISE 2.7
+
+a)Using end-of-line comments on right braces.
+b)if statement
+c)division and remainder operators
+d)expression in the innermost set of parenthesis evaluated first
+e)Variable
+
+
+EXERCISE 2.8
+a)System.out.print("Enter an integer: ");
+b)a = b *c;
+c)// This program performs a sample payroll calculation.
+
+
+EXERCISE 2.9
+a)false
+b)true
+c)false
+d)false
+
+
+EXERCISE 2.10
+a)
+b)
+c)
+d)
+
+EXERCISE 2.11
+D
+
+
+
+
+EXERCISE 2.12
+A
+
+
+EXERCISE 2.13
+syntax error.
+because multiplication has more precedence than addition.
+
+
+EXERCISE 2.14
+a)
+b)
+c)
+
+
+EXERCISE 2.19
