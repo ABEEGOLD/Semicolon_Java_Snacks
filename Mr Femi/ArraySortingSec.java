@@ -28,17 +28,16 @@ public class ArraySortingSec{
 		
 		} return numbers;
 
-	} 
+	}
 	public static int[] SquareArray(int[] numbers){
 		int[] resultSquare = new int[numbers.length];
-			int[] squareNumbers = new int[numbers.length];
-
+			int squareNumbers = 0;
 		for(int i = 0; i<numbers.length;i++){
-			if(resultSquare[i] == numbers){
-				numbers = resultSquare[i] * resultSquare[i];
+			if(resultSquare[i] < squareNumbers){
+				 squareNumbers = resultSquare[i] * resultSquare[i];
 			} 
 			
-		}return numbers; 
+		}return squareNumbers; 
 
 
 

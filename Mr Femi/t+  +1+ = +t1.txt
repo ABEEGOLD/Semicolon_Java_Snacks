@@ -1,0 +1,3 @@
+t+" " +1+" = "+t*1
+
+print(num,'x',number,'=',num * number,end='\t')

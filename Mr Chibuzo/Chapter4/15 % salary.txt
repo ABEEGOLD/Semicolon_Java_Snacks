@@ -1,0 +1,4 @@
+15 %* salary
+s out (salary -tax)
+tax = 20% * salary
+sout(salary - tax)

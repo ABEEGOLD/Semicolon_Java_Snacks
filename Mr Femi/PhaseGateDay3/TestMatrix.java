@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 		public void testNByNTwoDMatrixRepresentingAnImageRotateTheImageByNintyDegreeReturnCorrectAnswers(){
 
 		int[][] numbers = new int[2][3];
-		int actual =  int[2][3];
+		int actual = row int[2][3];
 		int expected = int[3][3];
 		assertEquals(actual,expected); 
 

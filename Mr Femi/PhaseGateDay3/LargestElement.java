@@ -10,7 +10,7 @@ public class LargestElement{
 		if(largest == numbers[count]){
 			index[count] = array[count];
 		}	
-	}return index[count];
+	}return index;
 
 	
 

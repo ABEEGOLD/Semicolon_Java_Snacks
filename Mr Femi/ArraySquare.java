@@ -4,7 +4,7 @@ public class ArraySortingSec{
 		int[] numbers = {7,2,9,3,0};
 	
 
-		System.out.println("\nascending numbers:" + Arrays.toString(AscendingArrayAscend(numbers)));
+		System.out.println("\nascending numbers:" + Arrays.toString(AscendingArray(numbers)));
 		System.out.println("\square numbers:" + Arrays.toString(SquareArray(numbers))); 
 	}
 
@@ -28,17 +28,16 @@ public class ArraySortingSec{
 		
 		} return numbers;
 
-	} 
+	}
 	public static int[] SquareArray(int[] numbers){
-		int[] resultSquare = new int[numbers.length];
-			int[] squareNumbers = new int[numbers.length];
-
+		int[] resultSquare = new [numbers.length];
+	
 		for(int i = 0; i<numbers.length;i++){
-			if(resultSquare[i] == numbers){
-				numbers = resultSquare[i] * resultSquare[i];
+			if(resultSquare < number[i]){
+				resultSquare = number[i]  * number[i];
 			} 
 			
-		}return numbers; 
+		}return resultSquare; 
 
 
 
