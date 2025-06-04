@@ -48,7 +48,7 @@ public static void main(String[] args){
 
 				} 
 
-			if(moneyWithdraw < 20000){
+			if(moneyWithdraw != 20000){
 				System.out.println("You can't withdraw that amount");	
 			}
 
